@@ -1,0 +1,27 @@
+{
+  "name": "02_episode2",
+  "version": "1.0.0",
+  "description": "This is Episode2",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwivedi1410/React.git"
+  },
+  "keywords": [
+    "Node",
+    "Modules",
+    "NPM"
+  ],
+  "author": "Prakash Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dwivedi1410/React/issues"
+  },
+  "homepage": "https://github.com/Dwivedi1410/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
